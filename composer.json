@@ -39,5 +39,11 @@
   },
   "config": {
     "process-timeout": 1800
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":"https://github.com/CODE7070/yii2-fec.git"
+    }
+  ]
 }
