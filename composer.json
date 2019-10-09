@@ -17,7 +17,6 @@
       "email": "zqy234@126.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2-swiftmailer": "2.0.7",
