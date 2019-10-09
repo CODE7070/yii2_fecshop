@@ -38,11 +38,11 @@
   "repositories": [
     {
       "type": "vcs",
-      "url":"https://github.com/CODE7070/yii2-fec.git"
+      "url":"https://github.com/CODE7070/yii2-fec"
     },
     {
       "type": "vcs",
-      "url":"https://github.com/CODE7070/yii2_fec_admin.git"
+      "url":"https://github.com/CODE7070/yii2_fec_admin"
     }
   ]
 }
