@@ -3,10 +3,10 @@
   "description": "fancyecommerce yii2 fecshop ",
   "keywords": [
     "yii2",
-    "fecshop" ,
-    "fancyecommerce" ,
-    "shop" ,
-    "ecommerce" ,
+    "fecshop",
+    "fancyecommerce",
+    "shop",
+    "ecommerce",
     "cart"
   ],
   "type": "yii2-extension",
@@ -20,9 +20,9 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2-swiftmailer": "2.0.7",
-    "yiisoft/yii2": ">=2.0.15" ,
-    "fancyecommerce/fec":"*",
-    "fancyecommerce/fec_admin":"dev-abc",
+    "yiisoft/yii2": ">=2.0.15",
+    "fancyecommerce/fec": "*",
+    "fancyecommerce/fec_admin": "dev-abc",
     "ramsey/uuid": "*",
     "facebook/graph-sdk": "*",
     "hightman/xunsearch": "*@beta"
@@ -34,11 +34,11 @@
   },
   "config": {
     "process-timeout": 1800
-  },"repositories": [
-  {
-    "type": "vcs",
-    "url":"https://github.com/CODE7070/yii2_fec_admin"
-
-  }
-]
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/CODE7070/yii2_fec_admin"
+    }
+  ]
 }
