@@ -21,8 +21,8 @@
     "php": ">=5.4.0",
     "yiisoft/yii2-swiftmailer": "2.0.7",
     "yiisoft/yii2": ">=2.0.15" ,
-    "fancyecommerce/fec":"dev-abc",
-    "fancyecommerce/fec_admin":"dev-abc",
+    "fancyecommerce/fec":"*",
+    "fancyecommerce/fec_admin":"*",
     "ramsey/uuid": "*",
     "facebook/graph-sdk": "*",
     "hightman/xunsearch": "*@beta"
@@ -34,15 +34,5 @@
   },
   "config": {
     "process-timeout": 1800
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url":"https://github.com/CODE7070/yii2-fec"
-    },
-    {
-      "type": "vcs",
-      "url":"https://github.com/CODE7070/yii2_fec_admin"
-    }
-  ]
+  }
 }
