@@ -1,5 +1,5 @@
 {
-  "name": "fancyecommerce/fecshop",
+  "name": "code7070/fecshop",
   "description": "fancyecommerce yii2 fecshop ",
   "keywords": [
     "yii2",
@@ -22,7 +22,7 @@
     "php": ">=5.4.0",
     "yiisoft/yii2-swiftmailer": "2.0.7",
     "yiisoft/yii2": ">=2.0.15" ,
-    "fancyecommerce/fec":"dev-master",
+    "fancyecommerce/fec":"*",
     "fancyecommerce/fec_admin":">=1.4.0",
     "ramsey/uuid": "*",
     "facebook/graph-sdk": "*",
@@ -35,11 +35,5 @@
   },
   "config": {
     "process-timeout": 1800
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url":"https://github.com/CODE7070/yii2-fec.git"
-    }
-  ]
+  }
 }
